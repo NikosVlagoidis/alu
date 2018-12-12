@@ -114,3 +114,6 @@ if __name__ == "__main__":
     print(alu.operate(unsigned_a, unsigned_b, op_code="000"))
     print(alu.operate(unsigned_a, op_code="100"))
     print(alu.operate(unsigned_b, unsigned_b, op_code="101"))
+    
+
+    
